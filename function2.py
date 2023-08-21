@@ -16,3 +16,4 @@ def func2(a):
 #호출
 print(func2(1))
 
+
