@@ -25,7 +25,7 @@ print(times())
 print(times(5))
 print(times(5,6))
 
-#키워드 인자 방식
+#키워드cmd 인자 방식
 def connectURI(server, port):
     strURL = "https://" + server + ":" + port
     return strURL
