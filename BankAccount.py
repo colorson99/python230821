@@ -21,6 +21,6 @@ account1.deposit(5000)
 account1.withdraw(3000)
 
 print(account1)
-print(account1.__balance)
+# print(account1.__balance)
 #백도어(테스트하는 용도)
 # print(account1._BankAccount_balance)
