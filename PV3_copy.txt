@@ -1,0 +1,6 @@
+ (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmV3Pro.exe)hRst = 2 에러가 발생하였습니다.
+
+ (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmV3Pro.exe)hRst = 2 : 에러가 발생하였습니다.
+
+RegOpenKey(SOFTWARE\Ahnlab\APC2\Policy Agent\UpdateFlag\NeedUploadInfo) : 0 에러가 발생하였습니다.
+
